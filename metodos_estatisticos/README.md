@@ -16,7 +16,7 @@ Neste projeto  alguns métodos estatísticos são calculados a partir da inserç
 
   Exemplo usando o <a href="https://replit.com/~">replit</a>
 
-  <a href="https://replit.com/~"><img src="./ImagesReadMe/exemplo.png"></a>
+  <a href="https://replit.com/~"><img src="./ImagesReadMe/Exemplo.png"></a>
 
   Val = valor        f = frequência         f A  = frequência absoluta         f  Rel  = frequência relativa 
 
